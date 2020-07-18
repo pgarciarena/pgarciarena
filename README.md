@@ -1,7 +1,7 @@
 ### Hi, I'm Paulo 👋
 
 - I'm a FrontEnd Developer (HTML, CSS, JAVASCRIPT, GIT, PHP)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, NODE, MongoDB, Next, GraphQL
 
 <!--
 **pgarciarena/pgarciarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
